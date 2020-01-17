@@ -1,0 +1,10 @@
+# BigBoisBigAdventure
+The first game I ever created using only eclipse
+
+To play, download files and launch an IDE (perferablly eclipse). The main function is found in the folder "Main" in the class "Game.java"
+
+Be sure that both the "src" and "Resources" files are changed into packages to allow the program to run. 
+
+All controls are listed in the game itself
+
+Expect some bugs due to the transfering of code from an older IDE to a newer one.
